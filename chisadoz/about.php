@@ -70,7 +70,11 @@
     <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
   </div>
   <?php include('header.php') ; ?>
-  <br/><br/>
+  <br/>
+  <div class = "container" >
+    
+  </div>
+  <br/>
     <?php include('footer.php') ; ?>
 <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
 </div>
