@@ -72,7 +72,16 @@
   <?php include('header.php') ; ?>
   <br/>
   <div class = "container" >
-    
+    <div class="row">
+    <div class="col-md-12">
+    <div class="alert alert-info">
+    <p>This is the first file in my new Git Repo.</p>
+<p>This line is here to show how merging works.</p>
+<div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
+
+    </div>
+    </div>
+    </div>
   </div>
   <br/>
     <?php include('footer.php') ; ?>
