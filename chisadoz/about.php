@@ -77,7 +77,7 @@
     <div class="alert alert-info">
     <p>This is the first file in my new Git Repo.</p>
 <p>This line is here to show how merging works.</p>
-<div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
+      <div><p>Just a new changes made from Danchima new branch</p></div>
 
     </div>
     </div>
